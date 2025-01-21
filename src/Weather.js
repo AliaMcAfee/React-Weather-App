@@ -1,5 +1,5 @@
 import axios from "axios";
-import react, { useState } from "react";
+import React, { useState } from "react";
 
 export default function City() {
   const [city, setCity] = useState("");
