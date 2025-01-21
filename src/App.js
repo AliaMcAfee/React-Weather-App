@@ -9,7 +9,8 @@ export default function App() {
       <Weather />
       <p>
         This project was coded by Alia McAfee and is open-sourced on{" "}
-        <a href="https://github.com/AliaMcAfee/React-Weather-App.git">GitHub</a>
+        <a href="https://github.com/AliaMcAfee/React-Weather-App.git">GitHub</a>{" "}
+        and hosted on <a href="">Netlify</a>
       </p>
     </div>
   );
